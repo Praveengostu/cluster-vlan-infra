@@ -1,0 +1,9 @@
+zones = ["dal12","dal13"]
+machine_type = "b3c.4x16"
+size_per_zone = 3
+wp_machine_type = "b3c.4x16"
+wp_name = "schematic-services"
+datacenter = "dal10"
+cluster_name = "schematics-dev"
+region = "us-south"
+rg_name = "schematics-dev"
